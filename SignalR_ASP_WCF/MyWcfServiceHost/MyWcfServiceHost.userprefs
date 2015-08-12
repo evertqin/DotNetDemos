@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="MyWcfServiceHost/MyWcfServiceHost.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyWcfServiceHost/WcfServiceHost.cs">
+    <Files>
+      <File FileName="MyWcfServiceHost/WcfServiceHost.cs" Line="121" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
